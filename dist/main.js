@@ -34,5 +34,5 @@ class Uniter {
         return s;
     }
 }
-export default Uniter;
+module.exports = Uniter;
 //# sourceMappingURL=main.js.map
