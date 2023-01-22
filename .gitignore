@@ -1,3 +1,6 @@
+# Distro files
+dist/
+
 # Logs
 logs
 *.log
